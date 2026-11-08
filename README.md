@@ -1,4 +1,4 @@
-# BSD3513 / BSD2513 Artificial Intelligence — Lab Report 3
+# BSD3513 Introduction to Artificial Intelligence — Lab Report 3
 
 ## Chapter 3: Knowledge Representation System (Scholarship Advisory Rule-Based System)
 
